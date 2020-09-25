@@ -1,0 +1,6 @@
+"  ID";status;company_name;company_address_street;company_address_houseNo;company_address_postalCode;company_address_city;company_address_country;contact_firstname;contact_lastname;contact_address_street;contact_address_houseNo;contact_address_postalCode;contact_address_city;contact_address_country
+99acf496-bc66-0dcf-8bfc-ae8e8cf98401;Draft;Company 1;Street 1;1;55656;Madrid;Spain;Juan;Martínez;Street 1;1;55656;Madrid;Spain
+ff189fc1-db4d-e630-a700-b8160b5cd3bd;Approved;Company 2;Street 2;2;66565;Barcelona;Spain;Pedro;Casado;Street 2;2;66565;Barcelona;Spain
+e8725e19-ea0e-53a8-24f4-ba7f7088b67a;Rejected;Company 3;Street 3;3;77676;Málaga;Spain;Tomás;García;Street 3;3;77676;Málaga;Spain
+0d4a2edd-bdb1-0aed-0310-a313c6ec5094;Saved;Company 4;Street 4;4;88787;München;Germany;John;Doe;Street 4;4;88787;München;Germany
+67988d76-70e9-fd4d-360b-8196924dc8c1;Outdated;Company 5;Street 5;5;99898;Düsseldorf;Germany;Jane;Doe;Street 5;5;99898;Düsseldorf;Germany

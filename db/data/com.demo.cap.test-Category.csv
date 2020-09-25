@@ -1,0 +1,10 @@
+product;name;description;parent_product;level;drilldown
+C100;Foods;Foods;;0;expanded
+C100100;Vegan;Vegan Foods;C100;1;expanded
+C100101;Tofu;Natural Tofu;C100100;2;leaf
+C100102;Salad;Mix of vegetables;C100100;2;leaf
+C100200;Meat;Meats;C100;1;expanded
+C100201;Veal;Veal 1 year;C100200;2;leaf
+C100202;Pork;Pork meat;C100200;2;leaf
+C200;Drinks;Drinks;;0;expanded
+C200100;Water;Still Water;C200;1;leaf
